@@ -1,7 +1,7 @@
 Ansible Bower Role
 =========
 
-[![Build Status](https://secure.travis-ci.org/martinmicunda/ansible-role-bower.png)](http://travis-ci.org/martinmicunda/ansible-role-bower) [![Ansible Galaxy](http://img.shields.io/badge/galaxy-martinmicunda.bower-blue.svg)](https://galaxy.ansible.com/list#/roles/1700) [![Platforms](http://img.shields.io/badge/platforms-ubuntu-orange.svg)](#)
+[![Build Status](https://secure.travis-ci.org/martinmicunda/ansible-role-bower.png)](http://travis-ci.org/martinmicunda/ansible-role-bower) [![Ansible Galaxy](http://img.shields.io/badge/galaxy-martinmicunda.bower-blue.svg)](https://galaxy.ansible.com/list#/roles/1705) [![Platforms](http://img.shields.io/badge/platforms-ubuntu-orange.svg)](#)
 
 An ansible role for installing Bower.
 
@@ -30,7 +30,7 @@ List of default variables available in the inventory:
 
 | Name                    | Default   | Description      |
 | ----------------------- | --------- | ---------------- |
-| bower_version           | *         | Bower   version  |
+| bower_version           | latest    | Bower   version  |
 
 Example Playbook
 ----------------
