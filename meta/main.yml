@@ -13,4 +13,5 @@ galaxy_info:
   - web
 
 dependencies:
-  - role: martinmicunda.nodejs
+  - src: martinmicunda.nodejs
+    name: nodejs
